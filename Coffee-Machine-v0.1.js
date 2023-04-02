@@ -2,7 +2,7 @@
 // Use "input(str)" to print some text before requesting input
 // You will need this in the following stages
 
-// This line is ignored for repl.it - it is used in HyperSkill's learning platform
+// This line is ignored - it is used in HyperSkill's learning platform
 //const input = require('sync-input') ]
 
 
