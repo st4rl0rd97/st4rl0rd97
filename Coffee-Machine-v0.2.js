@@ -1,9 +1,9 @@
 const input = require('sync-input') // will need to find a better way to take input at some point 
 
 // Declare the constants for ingredients
-const water = 200;
-const milk = 50;
-const coffeeBeans = 15;
+const water = 200; // in ml
+const milk = 50; // in ml
+const coffeeBeans = 15; // in grams
 
 // Declare the variables for totalling ingredients
 let totalWater;
