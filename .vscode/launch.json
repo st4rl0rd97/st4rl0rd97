@@ -1,0 +1,21 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+
+  // This is a configuration file for launching a Node.js program in Visual Studio Code. It specifies the
+  // version of the configuration file format and includes a single configuration for launching a Node.js
+  // program. The configuration includes the type of program (Node.js), the request type (launch), the
+  // name of the launch configuration, the files to skip during debugging, and the path to the program
+  // file to be launched.
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Launch Program",
+      "skipFiles": ["<node_internals>/**"],
+      "program": "${workspaceFolder}\\Coffee-Machine-v0.2.js"
+    }
+  ]
+}

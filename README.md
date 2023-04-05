@@ -1,4 +1,5 @@
-## Personal Code Repository for projects in:
+# Personal Code Repository for projects in
+
 - Python
 - JavaScript
 - HTML
@@ -6,4 +7,4 @@
 - PowerShell
 - Cisco Configurations
 
-*__probably not updated, ever__*
+_**probably not updated, ever**_
