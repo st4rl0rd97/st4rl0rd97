@@ -1,8 +1,5 @@
-<<<<<<< Updated upstream
-//import input from "sync-input"; // will need to find a better way to take input at some point
-=======
 // const input = require('sync-input') // will need to find a better way to take input at some point 
->>>>>>> Stashed changes
+const prompt = require('prompt-sync')();
 
 /** `const water = 200; // in ml; const milk = 50; // in ml; const coffeeBeans = 15; // in grams`
  * are declaring constants for the amount of water, milk, and coffee beans needed to make one
@@ -55,6 +52,8 @@ function main() {
   console.log(`${totals[2]} ml of milk,`);
   console.log(`${totals[3]} g of coffee beans`);
 }
+
+main();
 
 /* Commented out until needed again
 console.log("Starting to make a coffee")

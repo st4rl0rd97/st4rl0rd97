@@ -15,7 +15,8 @@
       "request": "launch",
       "name": "Launch Program",
       "skipFiles": ["<node_internals>/**"],
-      "program": "${workspaceFolder}\\Coffee-Machine-v0.2.js"
+      "program": "${workspaceFolder}\\Coffee-Machine-v0.2.js",
+      "runtimeExecutable": "C:\\Program Files\\nodejs\\node.exe"
     }
   ]
 }
