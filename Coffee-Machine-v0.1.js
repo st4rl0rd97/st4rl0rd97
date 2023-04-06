@@ -5,7 +5,6 @@
 // This line is ignored - it is used in HyperSkill's learning platform
 //const input = require('sync-input') ]
 
-
 console.log("Starting to make a coffee")
 console.log("Grinding coffee beans")
 console.log("Boiling water")

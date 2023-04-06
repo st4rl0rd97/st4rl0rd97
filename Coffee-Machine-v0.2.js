@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 //import input from "sync-input"; // will need to find a better way to take input at some point
+=======
+// const input = require('sync-input') // will need to find a better way to take input at some point 
+>>>>>>> Stashed changes
 
 /** `const water = 200; // in ml; const milk = 50; // in ml; const coffeeBeans = 15; // in grams`
  * are declaring constants for the amount of water, milk, and coffee beans needed to make one
